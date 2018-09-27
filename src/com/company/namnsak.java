@@ -10,3 +10,4 @@ public class namnsak
 		JOptionPane.showMessageDialog(null, "Hello " + nameUpper + '.');
 	}
 }
+// This Program is done

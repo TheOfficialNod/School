@@ -14,3 +14,4 @@ public class Klocka
 		JOptionPane.showMessageDialog(null, "The time is " + formatedTime);
 	}
 }
+// This Program is done
